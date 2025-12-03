@@ -1,0 +1,10 @@
+streamlit
+pandas
+mysql-connector-python
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-generativeai
+pandasql
+python-dotenv

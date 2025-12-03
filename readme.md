@@ -36,7 +36,9 @@ A Streamlit-based application that converts natural language text into SQL queri
 
 ## Video Demo
 
-[Click here to watch the demo video](media/vd1.webm)
+## Video Demo
+
+[![Project Demo](media/media_vd1.webm)](media/vd1.webm)
 
 
 ---

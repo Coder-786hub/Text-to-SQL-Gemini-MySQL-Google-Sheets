@@ -38,7 +38,7 @@ A Streamlit-based application that converts natural language text into SQL queri
 
 ## Video Demo
 
-[![Project Demo](media/media_vd1.webm)](media/vd1.webm)
+[![Project Demo](media/vd1.gif)](media/vd2.mp4)
 
 
 ---

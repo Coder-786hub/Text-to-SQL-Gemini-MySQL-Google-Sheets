@@ -36,13 +36,8 @@ A Streamlit-based application that converts natural language text into SQL queri
 
 ## Video Demo
 
-<video width="600" controls>
-  <source src="media/vd1.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-![[Project Demo](media/vd1.gif)](media/vd1.webm)
+[Click here to watch the demo video](media/vd1.webm)
 
-> Click on the video thumbnail to watch the demo.
 
 ---
 

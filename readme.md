@@ -40,7 +40,7 @@ A Streamlit-based application that converts natural language text into SQL queri
   <source src="media/vd1.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-[![Project Demo](media/vd1.gif)](media/vd1.webm)
+![[Project Demo](media/vd1.gif)](media/vd1.webm)
 
 > Click on the video thumbnail to watch the demo.
 
